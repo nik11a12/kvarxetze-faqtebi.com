@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://jooinn.com/images/evening-sea-shore-4.jpg);
+}
+.zedaobjeqt{
+    background-color: rgb(219, 34, 173);
+    
+    height: 110px;
+    width: 500px;
+    border: 3px solid rgb(114, 3, 179) ;
+    margin-top: 80px;
+    transform: translateX(100px);
+
+    
+}
+.objeqt{
+    background-color: rgb(214, 19, 172);
+    width: 350px;
+    height: 450px;
+    transform: translateY(100px);
+    transform: translateX();
+    border: 3px solid rgb(114, 3, 179);
+    
+}
+.click{
+    background-color: rgb(218, 8, 18);
+    
+    width: 100px;
+    height: 45px;
+    cursor: pointer;
+    border: solid brown;
+    margin-top: 20px;
+}
+.click:hover{
+    background-color: rgb(163, 2, 128);
+}
+p{
+    color: rgb(48, 7, 7);
+    transform: translateY(-57px);
+    font-size: 50px;
+    
+}
+label{
+    font-size: 20px;
+}
+input{
+    font-size: 19px;
+}
+button{
+    font-size: 20px;
+}
